@@ -1,1 +1,1 @@
-# garland.io
+https://kamilshaykhutdinov.github.io/garland/
